@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9D0C94A5-1D9E-473C-B85D-E92092046160</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Flo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6E7A3AF09810795C81B369598F13CE7CDEBCF46A</key>
+		<string>https://github.com/carolight/Flo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Xcode 6.3/Part 2/Flo-Part2-6.3/Flo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6E7A3AF09810795C81B369598F13CE7CDEBCF46A</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/carolight/Flo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6E7A3AF09810795C81B369598F13CE7CDEBCF46A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6E7A3AF09810795C81B369598F13CE7CDEBCF46A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Flo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
